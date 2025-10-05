@@ -1,0 +1,16 @@
+# Ruby/Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+.ruby-version
+
+# macOS
+.DS_Store
+
+# Node (if ever used)
+node_modules/
+package-lock.json
+yarn.lock
+

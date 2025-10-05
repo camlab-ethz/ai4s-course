@@ -1,0 +1,37 @@
+- date: 9/18
+  title: >
+    Week 1 <strong>Course Introduction</strong> <a href="AISE25Lect1.pdf">[slides]</a> <a href="https://colab.research.google.com/drive/1OCtdpfBBL0jfno2Bt380YBZjSkK0GWiz">[tutorials]</a>
+
+  slides:
+  topics:
+    - Course syllabus and requirements
+    - AI in Science and Engineering
+    - Mathematical modeling with PDEs
+    - Computational challenges
+    - Motivation for AI approaches
+  readings:
+
+- date: 9/25
+  title: >
+    Week 2 <strong>Introduction to Deep Learning</strong> <a href="AISE25Lect2.pdf">[slides]</a> <a href="https://colab.research.google.com/drive/1PBIgFRt7-xXnCFoJiu36-uobwyxsgDsg?usp=sharing">[tutorials]</a>
+  slides:
+  topics:
+    - Introduction to using deep learning to model physical systems governed by PDEs.
+    - Structure of MLPs with layers, weights, biases, and activation functions (sigmoid, tanh, ReLU, etc.).
+    - Gradient descent, stochastic gradient descent (SGD), mini-batch SGD
+    - Motivation for convolutional neural networks (CNNs) to handle high-dimensional inputs efficiently.
+
+
+  readings:
+
+- date: 10/2
+  title: >
+    Week 3 <strong>Introduction to Physics-Informed Neural Networks</strong> <a href="AISE25Lect3.pdf">[slides]</a>
+  slides:
+  topics:
+    - Introduction to Physics-Informed Neural Networks (PINNs).
+    - Extending PINNs to reconstruct unknown solutions or parameters from partial measurements.
+    - PINNs unify data-driven learning and physics-based modeling, offering flexible, mesh-free solvers for forward and inverse PDE problems.
+  readings:
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">Physics-informed neural networks A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations</a> <br/>
+
