@@ -10,7 +10,7 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://shizheng-wen.github.io  # the base hostname & protocol for your site
+url: https://camlab-ethz.github.io # the base hostname & protocol for your site
 baseurl: /ai4s-course # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
