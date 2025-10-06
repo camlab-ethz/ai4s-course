@@ -2,6 +2,8 @@
 layout: schedule
 permalink: /fall2025/schedule/
 title: Schedule
+tutorials_data: tutorials_2025
+hide_header: true
 ---
 
  

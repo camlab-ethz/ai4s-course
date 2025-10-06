@@ -1,6 +1,6 @@
 - date: 9/18
   title: >
-    Week 1 <strong>Course Introduction</strong> <a href="AISE25Lect1.pdf">[slides]</a> <a href="https://colab.research.google.com/drive/1OCtdpfBBL0jfno2Bt380YBZjSkK0GWiz">[tutorials]</a>
+    Week 1 <strong>Course Introduction</strong> <a href="AISE25Lect1.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/f0vxnPqBJjP8fKcrx7qEnbD1ENg9kLxy6_D19hZFTz1qPIu_u6mmFDNujQyvIgItI5d8qzR6EhBivVEp.uj3NhRBr2hA-YGqe?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FGand-InVqT_l0A2NDgQArhoI2o1nynVu7zuXCnlK2DNwb4ldTkO1tGV-tpfoag5u.sGt2HQ-r_eKp1aCE">[recording]</a>
 
   slides:
   topics:
@@ -16,7 +16,7 @@
 
 - date: 9/25
   title: >
-    Week 2 <strong>Introduction to Deep Learning</strong> <a href="AISE25Lect2.pdf">[slides]</a> <a href="https://colab.research.google.com/drive/1PBIgFRt7-xXnCFoJiu36-uobwyxsgDsg?usp=sharing">[tutorials]</a>
+    Week 2 <strong>Introduction to Deep Learning</strong> <a href="AISE25Lect2.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/8QIKsLmZDtRTRjwauoXcSsg1ANkAc2D0jc8Munhj2BXFjAyuD3WhKnRuIolqPCSFh7-Pjny3DtIYuBI.5S9x3jgNVCXAJpcw?autoplay=true&startTime=1758780652000">[recording]</a>
   slides:
   topics:
     - Introduction to using deep learning to model physical systems governed by PDEs.
@@ -33,7 +33,7 @@
 
 - date: 10/2
   title: >
-    Week 3 <strong>Introduction to Physics-Informed Neural Networks</strong> <a href="AISE25Lect3.pdf">[slides]</a>
+    Week 3 <strong>Introduction to Physics-Informed Neural Networks</strong> <a href="AISE25Lect3.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/fN2KHdgdgoIVkc-3JZfDf2BHKxQj58hwAqzkRaoc3aOr0ydN32-CK10sqKfsqJ0LzmbgsEUwi0G4nz4.SbdPCEmJbWFy_9eS?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1759385427000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2F_yp9-FA_eqb6QU5CQbcLoWy_tuLUyb_3H63yyDNpmLMazLcj8BPe7dYAmqs7FueY.1UVNnzP-eTSAP56_%3FstartTime%3D1759385427000">[recording]</a>
   slides:
   topics:
     - Introduction to Physics-Informed Neural Networks (PINNs).
@@ -45,3 +45,25 @@
     - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=712178">Artificial Neural Networks for Solving Ordinary and Partial Differential Equations</a> <br/>
     - <a href="https://www.sciencedirect.com/science/article/pii/S0022407321001989">Physics informed neural networks for simulating radiative transfer</a> <br/>
 
+
+- date: 10/9
+
+- date: 10/16
+
+- date: 10/23
+
+- date: 10/30
+
+- date: 11/6
+
+- date: 11/13
+
+- date: 11/20
+
+- date: 11/27
+
+- date: 12/4
+
+- date: 12/11
+
+- date: 12/18

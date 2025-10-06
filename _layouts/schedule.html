@@ -3,12 +3,15 @@ layout: default
 ---
 <div class="post">
 
+  {% unless page.hide_header %}
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <h2 class="post-description">{{ page.description }}</h2>
   </header>
+  {% endunless %}
 
   <article class="post-content {{page.title}} clearfix">
+    <h2>Lectures</h2>
     <table class="table table-hover">
       <colgroup>
         <col style="width:5%">
@@ -26,6 +29,67 @@ layout: default
         {{ content }}
       </tbody>
     </table>
+
+    {% if page.tutorials_data %}
+    <h2 style="margin-top:32px;">Tutorials</h2>
+    <table class="table table-hover">
+      <colgroup>
+        <col style="width:10%">
+        <col style="width:50%">
+        <col style="width:20%">
+        <col style="width:20%">
+      </colgroup>
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Date</th>
+          <th scope="col">Topics</th>
+          <th scope="col">Exercise</th>
+          <th scope="col">Solutions</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign tutorials = site.data[page.tutorials_data] %}
+        {% if tutorials and tutorials.size > 0 %}
+          {% for item in tutorials %}
+          <tr>
+            <th scope="row">{{ item.date }}</th>
+            <td>
+              {% if item.topics %}
+                {% if item.topics.first %}
+                  <ul>
+                  {% for topic in item.topics %}
+                    <li style="font-size:12px;">{{ topic }}</li>
+                  {% endfor %}
+                  </ul>
+                {% else %}
+                  {{ item.topics }}
+                {% endif %}
+              {% endif %}
+            </td>
+            <td>
+              {% if item.exercise_url %}
+                <a href="{{ item.exercise_url | relative_url }}" target="_blank">[exercise]</a>
+              {% elsif item.exercise %}
+                {{ item.exercise }}
+              {% endif %}
+            </td>
+            <td>
+              {% if item.solutions_url %}
+                <a href="{{ item.solutions_url | relative_url }}" target="_blank">[solutions]</a>
+              {% elsif item.solutions %}
+                {{ item.solutions }}
+              {% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        {% else %}
+          <tr>
+            <td colspan="4">No tutorials yet.</td>
+          </tr>
+        {% endif %}
+      </tbody>
+    </table>
+    {% endif %}
   </article>
 
 </div>

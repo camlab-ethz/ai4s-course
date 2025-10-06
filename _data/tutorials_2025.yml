@@ -1,0 +1,44 @@
+# Tutorials schedule for Fall 2025
+# Example schema:
+- date: 9/22
+  topics:
+    Function Approximation with Pytorch
+  exercise_url: https://colab.research.google.com/drive/1aYROtLJQ8wS8Xa5XDNf9Q9TmgWIrCaW4
+  solutions_url: https://colab.research.google.com/drive/1aTJkpZIilMcW7f5w6W8ylYH68pREzNoZ
+
+- date: 9/25
+  topics:
+    Cross Validation and Intro to CNNs
+  exercise_url: https://colab.research.google.com/drive/1Qd4LkQpoHYtMV717kqMo7R5lJ4x3cz72
+  solutions_url: https://colab.research.google.com/drive/1rjQ9bUqWn77pL4V54ukXGCcjENeDBEC9
+
+- date: 10/6
+  topics:
+    PINN Training
+  exercise_url: https://colab.research.google.com/drive/1PEvUzwIDzB1EmHzcU5MkCLLseHMsuI4s
+  solutions_url: https://colab.research.google.com/drive/1KBqId6qgTAmzOUgAkcJnE9UT8NMqjKsH
+
+- date: 10/13
+
+- date: 10/20
+
+- date: 10/27
+
+- date: 11/3
+
+- date: 11/10
+
+- date: 11/17
+
+- date: 11/24
+
+- date: 12/1
+
+- date: 12/8
+
+- date: 12/15
+
+- date: 12/22
+
+
+
