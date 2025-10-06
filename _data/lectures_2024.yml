@@ -10,6 +10,9 @@
     - Computational challenges
     - Motivation for AI approaches
   readings:
+    - <a href="https://www.nature.com/articles/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence</a> <br/>
+    - <a href="https://www.nature.com/articles/s42254-024-00712-5">Neural operators for accelerating scientific simulations and design</a> <br/>
+    - <a href="https://www.nature.com/articles/s42254-021-00314-5">Physics-informed machine learning</a> <br/>
 
 - date: 9/25
   title: >
@@ -23,6 +26,10 @@
 
 
   readings:
+    - <a href="https://arxiv.org/abs/1412.6980">Adam:A Method for Stochastic Optimization</a> <br/>
+    - <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem"> WIKIPEDIA:Universal approximation theorem</a> <br/>
+    - <a href="https://www.nature.com/articles/nature14539"> Deep learning</a> <br/>
+
 
 - date: 10/2
   title: >
@@ -34,4 +41,7 @@
     - PINNs unify data-driven learning and physics-based modeling, offering flexible, mesh-free solvers for forward and inverse PDE problems.
   readings:
     - <a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">Physics-informed neural networks A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations</a> <br/>
+    - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.1640100303">neural-network-based approximations for solving partial differential equations</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=712178">Artificial Neural Networks for Solving Ordinary and Partial Differential Equations</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0022407321001989">Physics informed neural networks for simulating radiative transfer</a> <br/>
 
