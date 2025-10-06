@@ -18,6 +18,8 @@ baseurl: /ai4s-course # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 github_username: camlab-ethz
 google_analytics:
+youtube_username: "@CAMLabETHZurich"
+youtube_channel_name: "CAMLab ETH Zürich"
 youtube_channel: 
 rss:  # notes rss
 

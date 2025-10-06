@@ -1,16 +1,16 @@
 ---
 layout: schedule
-permalink: /spring2023/schedule/
+permalink: /fall2025/schedule/
 title: Schedule
 ---
 
-**Exact topics and schedule subject to change, based on student interests and course discussions.**
+ 
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures_2023 %}
+{% for item in site.data.lectures_2025 %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}

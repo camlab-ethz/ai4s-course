@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /spring2024/projects/
+permalink: /fall2025/projects/
 title: Projects
 description: Project links and examples
 ---
