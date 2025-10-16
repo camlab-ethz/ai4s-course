@@ -47,8 +47,39 @@
 
 
 - date: 10/9
+  title: >
+    Week 4 <strong>PINNs - Theoretical insights</strong> <a href="AISE25Lect4.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/kAAePCqakjFVOBbB8YPXMNRlQyUDyWudCl76fLNAa4j21qb9hj2ic2rvMYeqrz_YB4mYu4-GXv7ynLWj.4Ns8mOAcWNosJjKb?autoplay=true&startTime=1759990281000">[recording]</a>
+  slides:
+  topics:
+    - Review of Physics-Informed Neural Networks (PINNs) for solving PDEs.
+    - Theoretical analysis of PINN error - relation between training error, PDE residuals, and total approximation error.
+    - Conditions ensuring convergence - coercivity, quadrature approximation, and DNN expressivity.
+    - Rigorous error bounds for linear and nonlinear PDEs (Kolmogorov, Black-Scholes, Navier-Stokes, Burgers' equation).
+    - Gradient descent dynamics and conditioning in PINN training; interpretation via NTK and preconditioning.
+    - Practical performance and challenges:successes on smooth PDEs, difficulties on shocks or high-conditioning problems.
+    - Overview of acceleration and stabilization techniques (causal learning, hard BCs, multi-stage networks).
+  readings:
+    - <a href="https://arxiv.org/abs/2106.14473">Error estimates for physics-informed neural networks approximating Kolmogorov PDEs</a> <br/>
+    - <a href="https://arxiv.org/abs/2402.10926">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2104.08938">On the approximation of functions by tanh neural networks</a> <br/>
 
 - date: 10/16
+  title: >
+    Week 5 <strong>Operator Learning - Introduction</strong> <a href="AISE25Lect5.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/PA4-nX5frP8Sx5s1C0wlD784lHqHFNSxzGbzVyTYrg826Hj9ZOWtvsUhbAQvIEwMnda_5ei6Pb8nY35V.8Vk71uTJKFvXtq_5?autoplay=true&startTime=1760595311000">[recording]</a>
+  slides:
+  topics:
+    - Transition from physics-informed learning to data-driven approaches.
+    - Introduction to operator learning
+    - Parametric PDE learning:deep networks approximating observables for low-dimensional parameterizations.
+    - Operator learning:approximating infinite-dimensional mappings from data distributions.
+    - Neural Operators generalizing DNNs to function spaces.
+    - Fourier Neural Operators (FNOs):convolution in Fourier space, efficient and translation-invariant.
+    - Theoretical foundation:universal approximation theorems for FNOs.
+    - Practical challenges:bridging continuous operators and discrete numerical data (continuous-discrete equivalence).
+  readings:
+    - <a href="https://arxiv.org/abs/2108.08481">Neural Operator:Learning Maps Between Function Spaces</a> <br/>
+    - <a href="https://arxiv.org/abs/2010.08895">Fourier Neural Operator for Parametric Partial Differential Equations</a> <br/>
+
 
 - date: 10/23
 

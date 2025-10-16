@@ -19,6 +19,10 @@
   solutions_url: https://colab.research.google.com/drive/1KBqId6qgTAmzOUgAkcJnE9UT8NMqjKsH
 
 - date: 10/13
+  topics:
+    Fourier Neural Operator
+  exercise_url: https://colab.research.google.com/drive/1SLWvaeSnKnAMX9Md8SAAaJtAmuUNSSRi?usp=sharing
+  solutions_url: https://colab.research.google.com/drive/1DBZW3AYwzQaxUoXjRxNQml7ClUQFJCR9?usp=sharing
 
 - date: 10/20
 
