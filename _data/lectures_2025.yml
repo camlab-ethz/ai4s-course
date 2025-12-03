@@ -148,7 +148,7 @@
 
 - date: 11/27
   title: >
-    Week 11 <strong>Generative model for PDE - GenCFD</strong> <a href="AISE25Lect11.pdf">[slides]</a>
+    Week 11 <strong>Generative model for PDE - GenCFD</strong> <a href="AISE25Lect11.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/share/oQIcdXsIOr9JMgAJqYI7u7h7-crlv0kD3usu9eWMK-MsvbzSlKeRqltbMAoUASxD.tVnbpfJgAGc5yDK0?startTime=1764227949000">[recording]</a>
   slides:
   topics:
     - Diffusion-based generative models for PDEs with chaotic multiscale solutions.
@@ -162,6 +162,19 @@
 
 
 - date: 12/4
+  title: >
+    Week 12 <strong>Foundation models of PDEs - Poseidon </strong> <a href="AISE25Lect12.pdf">[slides]</a>
+  slides:
+  topics:
+    - Caveat of current neural opeartor paradigms - How to make models more Data Eﬃcient?
+    - PDE foundation models - Poseidon
+    - all2all training paradigm for data enhancement.
+
+  readings:
+    - <a href="https://arxiv.org/abs/2511.20455">Fluid Intelligence:A Forward Look on AI Foundation Models in Computational Fluid Dynamics</a> <br/>
+    - <a href="https://arxiv.org/abs/2405.19101">Poseidon:Efficient Foundation Models for PDEs</a> <br/>
+    - <a href="https://arxiv.org/abs/2310.02994">Multiple Physics Pretraining for Physical Surrogate Models</a> <br/>
+    - <a href="https://arxiv.org/abs/2403.03542">DPOT:Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a> <br/>
 
 - date: 12/11
 
