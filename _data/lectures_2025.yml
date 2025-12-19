@@ -163,7 +163,7 @@
 
 - date: 12/4
   title: >
-    Week 12 <strong>Foundation models of PDEs - Poseidon </strong> <a href="AISE25Lect12.pdf">[slides]</a>
+    Week 12 <strong>Foundation models of PDEs - Poseidon </strong> <a href="AISE25Lect12.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/C09f3nCFL96XJACauYosWO31DKnStZs5DDKHfpFThLOQjBVYtlJjauaCv1-YhlBoV6LtCDrWjmStBtNz.7dHq5s0gRxi77hVV?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1764832558000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FVbfEPS4Lh1LjBNk7AplC_FjSbelRA99-k0MLWv-tXs4Ug5UHFVnCSisWjJBLBOpQ.VqR9wKcumEOAZ7J-%3FstartTime%3D1764832558000">[recording]</a>
   slides:
   topics:
     - Caveat of current neural opeartor paradigms - How to make models more Data Eﬃcient?
@@ -177,5 +177,34 @@
     - <a href="https://arxiv.org/abs/2403.03542">DPOT:Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training</a> <br/>
 
 - date: 12/11
+  title: >
+    Week 13 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect13.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/e-FpDBtE7wTrBkECxi0h3tB9oIF883YN3tp9kfYm7vxGoqEem6MDs4rM7JNc-yFrYe7LrFC5vsHHSm5H.l1Ef-elzGsZAi3ZL?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1765437808000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FifCpdkrjeiAwGpbETxw83as0kJhMjsDlJaZSptWMJtqhFbj-d_34czNKmVli120q.Wa1Z-UlWYldN7O1t%3FstartTime%3D1765437808000">[recording]</a>
+  slides:
+  topics:
+    - Introduction to Protein, Small Molecules and Drug Discovery  
+    - Protein Language Models  
+    - Protein Structure Prediction Models  
+    - Introduction to Graph Neural Networks  
+    - Graph-based ML models  
+
+  readings:
+    - <a href="https://www.science.org/doi/10.1126/science.ade2574">Evolutionary-scale prediction of atomic-level protein structure with a language model </a> <br/>
+    - <a href="https://www.nature.com/articles/s41586-021-03819-2">Highly accurate protein structure prediction with AlphaFold</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0092867420301021?via%3Dihub">A Deep Learning Approach to Antibiotic Discovery </a> <br/>
+    - <a href="https://www.nature.com/articles/s42256-025-01124-5">Resolving data bias improves generalization in binding affinity prediction </a> <br/>
 
 - date: 12/18
+  title: >
+    Week 14 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect14.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/Hjm-Myctc8P9itGV59KYNTeCs-9rDASH_jnzRS3fiXSmkOEvyrx4JRpv9ivYzmAwUGuSUy5nR8rKu2jt.GLmQaKnv8qBIHc5V?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1766042045000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FfdiV65j34j1e0PAaZMOVrytC4MJAtEihq9uDrd3ZxKA6x2MHgvHJOjC7JHHvThme.cWPdnwGFpa97zwXV%3FstartTime%3D1766042045000">[recording1]</a> <a href="https://ethz.zoom.us/rec/play/P-YOClMjSZtZtWjuguskcBP-2iKB4zPvHsgxfX4AKkn1KxUeCzEmWDfKAvXLVP0inS-WaabSj8WPiBa6.KAH-ktyWQydUZKk3?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1766046401000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FAq-OgSelLrZzMmaP1Uh_ezIZSfj-2SL--TvMjyFlgANfroyaf33vNw4HR-TQOHgv.DuT3oVjywn53A7_N%3FstartTime%3D1766046401000">[recording2]</a>
+  slides:
+  topics:
+    - Challenges of training ML models on biological data  
+    - Generative Models for de novo design of small molecules  
+    - Generative Models for de novo design of proteins  
+  readings:
+    - <a href="https://www.nature.com/articles/s42256-025-01124-5">Resolving data bias improves generalization in binding affinity prediction</a> <br/>
+    - <a href="https://www.nature.com/articles/s41467-025-63947-5">Investigating whether deep learning models for co-folding learn the physics of protein-ligand interactions</a> <br/>
+    - <a href="https://www.nature.com/articles/s43588-024-00737-x">Structure-based drug design with equivariant diffusion models</a> <br/>
+    - <a href="https://www.nature.com/articles/s41586-023-06415-8">De novo design of protein structure and function with RFdiffusion</a> <br/>
+    - <a href="https://www.science.org/doi/10.1126/science.add2187">Robust deep learning-based protein sequence design using ProteinMPNN</a> <br/>
+

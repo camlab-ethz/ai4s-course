@@ -76,8 +76,12 @@
   solutions_url: 
 
 - date: 12/15
+  topics:
+    Transfer Learning
+  exercise_url: https://colab.research.google.com/drive/1DiCV_MpXuH00l9mI8GqvLplPz3vvlnD4?usp=sharing
+  solutions_url: https://colab.research.google.com/drive/1DiCV_MpXuH00l9mI8GqvLplPz3vvlnD4?usp=sharing
 
-- date: 12/22
+
 
 
 
