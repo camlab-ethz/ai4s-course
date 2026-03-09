@@ -1,6 +1,6 @@
 - date: 9/18
   title: >
-    Week 1 <strong>Course Introduction</strong> <a href="AISE25Lect1.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/f0vxnPqBJjP8fKcrx7qEnbD1ENg9kLxy6_D19hZFTz1qPIu_u6mmFDNujQyvIgItI5d8qzR6EhBivVEp.uj3NhRBr2hA-YGqe?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FGand-InVqT_l0A2NDgQArhoI2o1nynVu7zuXCnlK2DNwb4ldTkO1tGV-tpfoag5u.sGt2HQ-r_eKp1aCE">[recording]</a>
+    Week 1 <strong>Course Introduction</strong> <a href="AISE25Lect1.pdf">[slides]</a>
 
   slides:
   topics:
@@ -16,7 +16,7 @@
 
 - date: 9/25
   title: >
-    Week 2 <strong>Introduction to Deep Learning</strong> <a href="AISE25Lect2.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/8QIKsLmZDtRTRjwauoXcSsg1ANkAc2D0jc8Munhj2BXFjAyuD3WhKnRuIolqPCSFh7-Pjny3DtIYuBI.5S9x3jgNVCXAJpcw?autoplay=true&startTime=1758780652000">[recording]</a>
+    Week 2 <strong>Introduction to Deep Learning</strong> <a href="AISE25Lect2.pdf">[slides]</a>
   slides:
   topics:
     - Introduction to using deep learning to model physical systems governed by PDEs.
@@ -33,7 +33,7 @@
 
 - date: 10/2
   title: >
-    Week 3 <strong>Introduction to Physics-Informed Neural Networks</strong> <a href="AISE25Lect3.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/fN2KHdgdgoIVkc-3JZfDf2BHKxQj58hwAqzkRaoc3aOr0ydN32-CK10sqKfsqJ0LzmbgsEUwi0G4nz4.SbdPCEmJbWFy_9eS?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1759385427000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2F_yp9-FA_eqb6QU5CQbcLoWy_tuLUyb_3H63yyDNpmLMazLcj8BPe7dYAmqs7FueY.1UVNnzP-eTSAP56_%3FstartTime%3D1759385427000">[recording]</a>
+    Week 3 <strong>Introduction to Physics-Informed Neural Networks</strong> <a href="AISE25Lect3.pdf">[slides]</a>
   slides:
   topics:
     - Introduction to Physics-Informed Neural Networks (PINNs).
@@ -48,7 +48,7 @@
 
 - date: 10/9
   title: >
-    Week 4 <strong>PINNs - Theoretical insights</strong> <a href="AISE25Lect4.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/kAAePCqakjFVOBbB8YPXMNRlQyUDyWudCl76fLNAa4j21qb9hj2ic2rvMYeqrz_YB4mYu4-GXv7ynLWj.4Ns8mOAcWNosJjKb?autoplay=true&startTime=1759990281000">[recording]</a>
+    Week 4 <strong>PINNs - Theoretical insights</strong> <a href="AISE25Lect4.pdf">[slides]</a>
   slides:
   topics:
     - Review of Physics-Informed Neural Networks (PINNs) for solving PDEs.
@@ -65,7 +65,7 @@
 
 - date: 10/16
   title: >
-    Week 5 <strong>Operator Learning - Introduction</strong> <a href="AISE25Lect5.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/PA4-nX5frP8Sx5s1C0wlD784lHqHFNSxzGbzVyTYrg826Hj9ZOWtvsUhbAQvIEwMnda_5ei6Pb8nY35V.8Vk71uTJKFvXtq_5?autoplay=true&startTime=1760595311000">[recording]</a>
+    Week 5 <strong>Operator Learning - Introduction</strong> <a href="AISE25Lect5.pdf">[slides]</a>
   slides:
   topics:
     - Transition from physics-informed learning to data-driven approaches.
@@ -83,7 +83,7 @@
 
 - date: 10/23
   title: >
-    Week 6 <strong>Operator Learning - FNO</strong> <a href="AISE25Lect6.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/share/ZaluQhiclGWo3ANjPt9Nfy74OZwHYEWfRsK0xkZRIxUc1oDU90TrqOel6KyWHHv8.vDT5OE7mRCbJ1hkb?startTime=1761199538000">[recording]</a>
+    Week 6 <strong>Operator Learning - FNO</strong> <a href="AISE25Lect6.pdf">[slides]</a>
   slides:
   topics:
     - Continuation of Operator Learning - FNO.
@@ -94,7 +94,7 @@
 
 - date: 10/30
   title: >
-    Week 7 <strong>Operator Learning - ReNO</strong> <a href="AISE25Lect7.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/a9Aek3di9zlbmSQYmaweAan7ySCkmW5KbTfeUIXK0OjbXIlWaz2u-Xa24foQ7Jo2LZ_ca-3hM7hxibeW.xfP20pFaAuRDviXC?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1761808433000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FirrWFSRiEPTmIIdkHiuWcWf1X7hQwYZSn3QLuYxU74Xs1zu-Ns41KZA2wwspkzzT.pR5-rAh0ibCOvyGm%3FstartTime%3D1761808433000">[recording]</a>
+    Week 7 <strong>Operator Learning - ReNO</strong> <a href="AISE25Lect7.pdf">[slides]</a>
   slides:
   topics:
     - Continuation of Operator Learning - ReNO.
@@ -105,7 +105,7 @@
 
 - date: 11/6
   title: >
-    Week 8 <strong>Operator Learning - Operator Transformer</strong> <a href="AISE25Lect8.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/o2p2CHXAQCVnUH_YDaNDuk4i84p5sXF2tVl4m4uM2mTIYwMdRZ0F2EBzDyzIX2jvaktSlP0W8s6X3N84.WuUyIBg82933aBVu?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1762413140000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FSOch6CrwJRcOuzuuP11sPYfQizLbbKudYFK4FesHc_VzafM3SLCB8wwYqwuZAU2q.yuidnV3GRkcqjCTF%3FstartTime%3D1762413140000">[recording]</a>
+    Week 8 <strong>Operator Learning - Operator Transformer</strong> <a href="AISE25Lect8.pdf">[slides]</a>
   slides:
   topics:
     - Transformer architecture and its application to operator learning.
@@ -119,7 +119,7 @@
 
 - date: 11/13
   title: >
-    Week 9 <strong>Operator Learning - Graph-based Model</strong> <a href="AISE25Lect9.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/FibJ0q7wYYkjOyIjcQLtz8-487OpDyDP2meRZUJkWNikVpz0Xm859YNgPGAhwNCK9LxnCQIwdJ_Otbqv.RaI9j1vz4NO7vDi2?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1763018149000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FmY2L0VW3B0yI2Yg3rwimlUAfYZYpTghynv8sc9Pd_Zt37CNxwimBxnUwSkOC8uuD.PCOe-VEa70db0PMe%3FstartTime%3D1763018149000">[recording]</a>
+    Week 9 <strong>Operator Learning - Graph-based Model</strong> <a href="AISE25Lect9.pdf">[slides]</a>
   slides:
   topics:
     - Graph-based model for operator learning.
@@ -130,7 +130,7 @@
 
 - date: 11/20
   title: >
-    Week 10 <strong>Operator Learning - GAOT</strong> <a href="AISE25Lect10.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/kep06HEchxzegb1Xs8zg4oTpdxNM4mD6uQNy8A50cQtoVfWFVdzWywMFkpwyK8cUl4vSERuiSny8nm49.xWOA5z-KrhTRKVk7?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1763622637000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FaaUiKKbPCzQy-t7mFpzNcHP4hLa7Eh8wEdCm602uK4XOcbqpNw9F-LUX32VJ2LNm.F8k-5Zs8ehc2jE2S%3FstartTime%3D1763622637000">[recording]</a>
+    Week 10 <strong>Operator Learning - GAOT</strong> <a href="AISE25Lect10.pdf">[slides]</a>
   slides:
   topics:
     - Efficiency-Accuracy Trade-off in Operator Learning.
@@ -148,7 +148,7 @@
 
 - date: 11/27
   title: >
-    Week 11 <strong>Generative model for PDE - GenCFD</strong> <a href="AISE25Lect11.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/share/oQIcdXsIOr9JMgAJqYI7u7h7-crlv0kD3usu9eWMK-MsvbzSlKeRqltbMAoUASxD.tVnbpfJgAGc5yDK0?startTime=1764227949000">[recording]</a>
+    Week 11 <strong>Generative model for PDE - GenCFD</strong> <a href="AISE25Lect11.pdf">[slides]</a>
   slides:
   topics:
     - Diffusion-based generative models for PDEs with chaotic multiscale solutions.
@@ -163,7 +163,7 @@
 
 - date: 12/4
   title: >
-    Week 12 <strong>Foundation models of PDEs - Poseidon </strong> <a href="AISE25Lect12.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/C09f3nCFL96XJACauYosWO31DKnStZs5DDKHfpFThLOQjBVYtlJjauaCv1-YhlBoV6LtCDrWjmStBtNz.7dHq5s0gRxi77hVV?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1764832558000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FVbfEPS4Lh1LjBNk7AplC_FjSbelRA99-k0MLWv-tXs4Ug5UHFVnCSisWjJBLBOpQ.VqR9wKcumEOAZ7J-%3FstartTime%3D1764832558000">[recording]</a>
+    Week 12 <strong>Foundation models of PDEs - Poseidon </strong> <a href="AISE25Lect12.pdf">[slides]</a>
   slides:
   topics:
     - Caveat of current neural opeartor paradigms - How to make models more Data Eﬃcient?
@@ -178,7 +178,7 @@
 
 - date: 12/11
   title: >
-    Week 13 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect13.pdf">[slides]</a> <a href="https://ethz.zoom.us/rec/play/e-FpDBtE7wTrBkECxi0h3tB9oIF883YN3tp9kfYm7vxGoqEem6MDs4rM7JNc-yFrYe7LrFC5vsHHSm5H.l1Ef-elzGsZAi3ZL?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1765437808000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fethz.zoom.us%2Frec%2Fshare%2FifCpdkrjeiAwGpbETxw83as0kJhMjsDlJaZSptWMJtqhFbj-d_34czNKmVli120q.Wa1Z-UlWYldN7O1t%3FstartTime%3D1765437808000">[recording]</a>
+    Week 13 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect13.pdf">[slides]</a>
   slides:
   topics:
     - Introduction to Protein, Small Molecules and Drug Discovery  
@@ -195,7 +195,7 @@
 
 - date: 12/18
   title: >
-    Week 14 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect14.pdf">[slides]</a> <a href="https://polybox.ethz.ch/index.php/s/eEeNad8an4QzEzC">[recording]</a> 
+    Week 14 <strong>Applications of AI in Chemistry & Biology </strong> <a href="AISE25Lect14.pdf">[slides]</a>
   slides:
   topics:
     - Challenges of training ML models on biological data  
