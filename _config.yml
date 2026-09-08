@@ -6,7 +6,7 @@ name: 401-4656-21L AI in the Sciences and Engineering
 title: AI in the Sciences and Engineering
 email:
 description: >
-  401-4656-21L AI in the Sciences and Engineering - ETH Zürich - HS2025
+  401-4656-21L AI in the Sciences and Engineering - ETH Zürich - HS2026
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -69,7 +69,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', 'fall2025/_pages', 'fall2026/_pages']
 exclude: [vendor]
 
 # Plug-ins

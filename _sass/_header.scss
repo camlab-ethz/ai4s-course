@@ -39,6 +39,24 @@
             margin-left: 10px;
         }
     }
+
+    .offering-switch {
+        display: inline-block;
+        padding: 4px 12px;
+        border: 1px solid $theme-color;
+        border-radius: 999px;
+        font-size: 13px !important;
+        line-height: 1.4 !important;
+        color: $theme-color !important;
+        background: $white;
+        vertical-align: middle;
+
+        &:hover {
+            background: $theme-color;
+            color: $white !important;
+            text-decoration: none;
+        }
+    }
     // added for hamburger
     @include media-query($on-palm) {
         position: absolute;
@@ -90,6 +108,12 @@
                 margin-right: 0;
             }
             margin-left: 10px;
+        }
+
+        .offering-switch {
+            display: inline-block;
+            margin: 8px 10px 8px 0;
+            text-align: center;
         }
     }
 }

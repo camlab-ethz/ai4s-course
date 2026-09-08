@@ -1,19 +1,16 @@
 ---
 layout: schedule
-permalink: /fall2025/schedule/
+permalink: /fall2026/schedule/
 title: Schedule
-tutorials_data: tutorials_2025
+tutorials_data: tutorials_2026
 hide_header: true
-show_recordings: true
 ---
-
- 
 
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures_2025 %}
+{% for item in site.data.lectures_2026 %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
@@ -61,3 +58,8 @@ show_recordings: true
 </tr>
 {% endif %}
 {% endfor %}
+{% if site.data.lectures_2026 == nil or site.data.lectures_2026.size == 0 %}
+<tr>
+    <td colspan="3">The lecture schedule will be posted here.</td>
+</tr>
+{% endif %}
