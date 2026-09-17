@@ -1,4 +1,20 @@
 # Lecture schedule for Fall 2026.
 # Schema matches lectures_2025.yml:
 # - date, title, slides, topics, readings
-[]
+- date: 9/17
+  title: >
+    Week 1 <strong>Course Introduction</strong>
+    <a href="AISE2026_Lecture-1.pdf">[slides]</a>
+    <a href="https://ethz.zoom.us/rec/share/0JMHg45oA5Ozm5JWJvXICcYCjKv0MjGuhKPDNeXl2zCJUFOB0VmOHNvvZRKAq4Q1.bq4L15FYMq1lc-k2" target="_blank">[video]</a>
+  slides:
+  topics:
+    - "Course logistics: no exam, project-based grading, tutorials as the core programming component"
+    - "Scope: physics and engineering (majority of the course) plus a short module on chemistry and biology"
+    - "Scientific method as PDE modeling: from natural phenomena to partial differential equations"
+    - PDEs as a compact language of nature and a strong prior across physics, engineering, and beyond
+    - "Why PDEs are hard to solve: few closed-form solutions and costly numerical methods"
+    - Many-query tasks and the sim-to-real gap as motivation for combining PDE priors with data-driven AI
+  readings:
+    - <a href="https://www.nature.com/articles/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence</a> <br/>
+    - <a href="https://www.nature.com/articles/s42254-024-00712-5">Neural operators for accelerating scientific simulations and design</a> <br/>
+    - <a href="https://www.nature.com/articles/s42254-021-00314-5">Physics-informed machine learning</a> <br/>
