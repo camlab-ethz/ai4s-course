@@ -26,10 +26,12 @@
     <a href="https://ethz.zoom.us/rec/share/XRG1Fd3wOOExamr_GPz3_2WURnpFmFeavp0XGiRo-Px-4uSg2LivAHD3OICZutD3.4t3Eelukj5Nc1Q8a" target="_blank">[video]</a>
   slides:
   topics:
-    - Using deep learning to model physical systems governed by PDEs
-    - "MLPs: layers, weights, biases, and activation functions"
-    - "Gradient descent, SGD, and mini-batch SGD"
-    - Why CNNs help with high-dimensional inputs
+    - "Learn PDE-modeled physics from data with neural networks"
+    - "From McCulloch–Pitts and the perceptron to MLPs: affine maps, pointwise activations, and stacked layers"
+    - "Universal approximation: an MLP can represent a continuous map, but the parameters still have to be found"
+    - "Supervised learning: labeled data, training loss, and a validation set to check generalization"
+    - "Training by gradient descent, backpropagation, and mini-batch SGD"
+    - "Beyond dense MLPs: CNNs and other structured architectures for high-dimensional inputs"
   readings:
     - <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a> <br/>
     - <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a> <br/>
