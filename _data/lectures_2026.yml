@@ -33,6 +33,6 @@
     - "Training by gradient descent, backpropagation, and mini-batch SGD"
     - "Beyond dense MLPs: CNNs and other structured architectures for high-dimensional inputs"
   readings:
-    - <a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a> <br/>
+    - '<a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a> <br/>'
     - <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a> <br/>
     - <a href="https://www.nature.com/articles/nature14539">Deep learning</a> <br/>
