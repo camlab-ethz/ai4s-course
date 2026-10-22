@@ -37,7 +37,7 @@
     - <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a> <br/>
     - <a href="https://www.nature.com/articles/nature14539">Deep learning</a> <br/>
 
-- date: 10/22
+- date: 10/1
   title: >
     Week 3 <strong>Introduction to Physics-Informed Neural Networks 1</strong>
     <a href="AISE2026_Lecture-3.pdf">[slides]</a>
@@ -55,3 +55,35 @@
     - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.1640100303">Neural-network-based approximations for solving partial differential equations</a> <br/>
     - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=712178">Artificial neural networks for solving ordinary and partial differential equations</a> <br/>
     - <a href="https://www.sciencedirect.com/science/article/pii/S0022407321001989">Physics-informed neural networks for simulating radiative transfer</a> <br/>
+
+- date: 10/8
+  title: >
+    Week 4 <strong>PINNs — Theoretical Insights</strong>
+    <a href="AISE2026_Lecture-4.pdf">[slides]</a>
+    <a href="https://ethz.zoom.us/rec/share/SaqasfIpFzgtaBHhCz3hd23elkTMx2CVQwMtcgGNuiV1shm9nzmpDQdRRKqNHAL_.pQPOhDE3FQy36sg0?startTime=1791447331000" target="_blank">[video]</a>
+  slides:
+  topics:
+    - "Where PINNs succeed: high-dimensional PDEs, parametric problems, and inverse problems"
+    - "Total error is controlled by the PDE residual when the PDE is coercive and the network and quadrature are accurate enough"
+    - "Explicit bounds for Kolmogorov equations, Navier–Stokes, and viscous Burgers"
+    - "Gradient descent on the physics-informed loss, and why high-frequency Poisson and advection are badly conditioned"
+    - "Preconditioning can rebalance data and physics terms, but shocks and stiff problems remain difficult"
+  readings:
+    - <a href="https://arxiv.org/abs/2106.14473">Error estimates for physics-informed neural networks approximating Kolmogorov PDEs</a> <br/>
+    - <a href="https://arxiv.org/abs/2402.10926">Numerical analysis of physics-informed neural networks and related models in physics-informed machine learning</a> <br/>
+    - <a href="https://arxiv.org/abs/2104.08938">On the approximation of functions by tanh neural networks</a> <br/>
+
+- date: 10/15
+  title: >
+    Week 5 <strong>Operator Learning — Introduction</strong>
+    <a href="AISE2026_Lecture-5.pdf">[slides]</a>
+  slides:
+  topics:
+    - "From solving one PDE with PINNs to learning the map from inputs to solutions"
+    - "Parametric PDE learning works when the input has a low-dimensional parameterization, such as airfoil shape"
+    - "Discretize-then-learn with MLPs or CNNs runs into model size and resolution limits"
+    - "Neural operators learn the continuous map first; FNOs do this with convolutions in Fourier space"
+    - "FNOs have a universal approximation theorem, but continuous operators and discrete training data do not automatically match"
+  readings:
+    - '<a href="https://arxiv.org/abs/2108.08481">Neural Operator: Learning Maps Between Function Spaces</a> <br/>'
+    - <a href="https://arxiv.org/abs/2010.08895">Fourier Neural Operator for Parametric Partial Differential Equations</a> <br/>
