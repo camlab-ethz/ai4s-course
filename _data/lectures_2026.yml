@@ -77,6 +77,7 @@
   title: >
     Week 5 <strong>Operator Learning — Introduction</strong>
     <a href="AISE2026_Lecture-5.pdf">[slides]</a>
+    <a href="https://ethz.zoom.us/rec/share/SKWfDl03nJM8K6q3kEkZthpjSGPxlwPr_yc0rz9w3X4dSLWMozfwTg-o6Cum7_3D.oWR0fHNe1s58ntZK" target="_blank">[video]</a>
   slides:
   topics:
     - "From solving one PDE with PINNs to learning the map from inputs to solutions"
