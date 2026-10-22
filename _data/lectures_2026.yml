@@ -36,3 +36,22 @@
     - '<a href="https://arxiv.org/abs/1412.6980">Adam: A Method for Stochastic Optimization</a> <br/>'
     - <a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Universal approximation theorem</a> <br/>
     - <a href="https://www.nature.com/articles/nature14539">Deep learning</a> <br/>
+
+- date: 10/22
+  title: >
+    Week 3 <strong>Introduction to Physics-Informed Neural Networks 1</strong>
+    <a href="AISE2026_Lecture-3.pdf">[slides]</a>
+    <a href="https://ethz.zoom.us/rec/share/2bJxSCpyAZn9omRUKIDIKIjy_myedwu0cKm7fmT6DMcbr7StglgB9oKS4e2ogBJV.4gpHzMBLrtjE5d4B" target="_blank">[video]</a>
+  slides:
+  topics:
+    - "PINNs solve a PDE without labeled data by minimizing interior, initial, and boundary residuals"
+    - "Residuals use automatic differentiation and are trained on collocation points"
+    - "Easy to implement, and high-dimensional heat and finance examples show only a mild growth of error with dimension"
+    - "Forward problems include viscous conservation laws, incompressible Navier–Stokes, and dispersive PDEs such as KdV"
+    - "A small amount of data can help, and the same loss handles data assimilation from partial measurements"
+    - "The framework also covers radiative transfer, including inverse parameter identification"
+  readings:
+    - '<a href="https://www.sciencedirect.com/science/article/pii/S0021999118307125">Physics-informed neural networks: a deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations</a> <br/>'
+    - <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.1640100303">Neural-network-based approximations for solving partial differential equations</a> <br/>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=712178">Artificial neural networks for solving ordinary and partial differential equations</a> <br/>
+    - <a href="https://www.sciencedirect.com/science/article/pii/S0022407321001989">Physics-informed neural networks for simulating radiative transfer</a> <br/>
