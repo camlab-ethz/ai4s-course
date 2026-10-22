@@ -7,3 +7,31 @@
   exercise_url: https://colab.research.google.com/drive/1aYROtLJQ8wS8Xa5XDNf9Q9TmgWIrCaW4
   solutions_url: https://colab.research.google.com/drive/1aTJkpZIilMcW7f5w6W8ylYH68pREzNoZ
   materials_url: /fall2026/schedule/Tutorial1-Pytorch.pdf
+
+- date: 9/28
+  topics:
+    Cross Validation and Intro to CNNs
+  exercise_url: https://colab.research.google.com/drive/1Qd4LkQpoHYtMV717kqMo7R5lJ4x3cz72
+  solutions_url: https://colab.research.google.com/drive/1rjQ9bUqWn77pL4V54ukXGCcjENeDBEC9
+  materials_url: /fall2026/schedule/Tutorial2-CNN.pdf
+
+- date: 10/5
+  topics:
+    Physics-Informed Neural Networks
+  exercise_url: https://colab.research.google.com/drive/1PEvUzwIDzB1EmHzcU5MkCLLseHMsuI4s?usp=sharing
+  solutions_url: https://drive.google.com/file/d/1d3C1nMYLacEgTVOx0Wfc4RVj0Mb7rRBl/view
+  materials_url: /fall2026/schedule/Tutorial3_slides.pdf
+
+- date: 10/12
+  topics:
+    PINNs for Inverse Problems
+  exercise_url: https://colab.research.google.com/drive/1bLKRQj7ng2UwhWeHD2vpDVbrOHd0ExPi?usp=sharing
+  solutions_url: https://colab.research.google.com/drive/1i0E0uRuKWYvXWmy60iAfDpsjF3Db9ofk?usp=sharing
+  materials_url: /fall2026/schedule/InversePINNs_slides.pdf
+
+- date: 10/19
+  topics:
+    Fourier Neural Operators
+  exercise_url: https://colab.research.google.com/drive/1SLWvaeSnKnAMX9Md8SAAaJtAmuUNSSRi?usp=sharing
+  solutions_url: https://colab.research.google.com/drive/1DBZW3AYwzQaxUoXjRxNQml7ClUQFJCR9?usp=sharing
+  materials_url: /fall2026/schedule/FourierNeuralOperator.pdf
