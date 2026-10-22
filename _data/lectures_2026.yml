@@ -88,3 +88,19 @@
   readings:
     - '<a href="https://arxiv.org/abs/2108.08481">Neural Operator: Learning Maps Between Function Spaces</a> <br/>'
     - <a href="https://arxiv.org/abs/2010.08895">Fourier Neural Operator for Parametric Partial Differential Equations</a> <br/>
+
+- date: 10/22
+  title: >
+    Week 6 <strong>Operator Learning — FNO, ReNO, and CNO</strong>
+    <a href="AISE2026_Lecture-6.pdf">[slides]</a>
+    <a href="https://ethz.zoom.us/rec/share/slGFGkVREnl3wz8WgiFkeAzJ8FE9VSwQOe1xtUn5_qpKioedwFo6NGGhxVNOnpee.auqbROypRwmxzArG" target="_blank">[video]</a>
+  slides:
+  topics:
+    - "Continuous–discrete equivalence: discretize-then-learn and learn-then-discretize should agree across grids"
+    - "A representation-equivalent neural operator keeps the same map when the grid changes"
+    - "CNNs are not representation equivalent, because the kernel is fixed on a discrete grid"
+    - "FNOs are not representation equivalent either: pointwise activations can leave the bandlimit"
+    - "Convolutional neural operators use continuous convolutions on bandlimited functions and are representation equivalent by construction"
+  readings:
+    - '<a href="https://arxiv.org/abs/2305.19913">Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning</a> <br/>'
+    - <a href="https://arxiv.org/abs/2302.01178">Convolutional Neural Operators for robust and accurate learning of PDEs</a> <br/>
